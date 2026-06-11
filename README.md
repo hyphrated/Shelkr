@@ -14,7 +14,9 @@ CustomTKinter:
 ```
 py -m pip install customtkinter
 ```
-## Startup
-After installing, run ```app.py```
+## Install & Startup
+- At the green button that says ```Code```, click and press on ```Donwload ZIP```
+- Extract the files.
+- Run app.py
 
 Made by a guy who's learning to build things.
