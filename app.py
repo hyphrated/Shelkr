@@ -10,7 +10,7 @@ class ShelschApp(ctk.CTk):
     def __init__(self):
         super().__init__()
 
-        self.title("Shelsch")
+        self.title("Shelkr")
         self.geometry("900x600")
         self.minsize(700, 450)
 
