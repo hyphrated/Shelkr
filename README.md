@@ -1,7 +1,7 @@
-# Shelkr
+# Shelkr.
 Shelkr is designed to be a digital registrar for you're library. It is simply a tracker for organization. 
 
-## The Inconvenience And Why I Made It.
+## The Inconvenience & Why I Made It.
 I have a library of both physical and digital books, so it's to loose track whether you *do* own a book or not. It's also just a prefernce to have everything in one platform that is readable like a large database. Hence, I made Shelkr.
 
 ## Development. 
@@ -14,3 +14,5 @@ py -m pip install customtkinter
 ```
 ## Startup
 After installing, run ```app.py```
+
+Made by a guy who's learning to build things.
