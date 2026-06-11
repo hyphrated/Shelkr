@@ -10,9 +10,14 @@ Shelkr is not a direct substituion to Calibre in any shape or form. It is simply
 I lack a lot fluency in Python, and I'm trying to familiarize myself with programming as a whole, so I had Anthropic's Claude write most of the program. The app itself is not to my standards for design, but I would slowly iterate this overtime with my own code with AI support for development and learning.
 
 ## Requirements
-CustomTKinter:
+### CustomTKinter:
+Windows:
 ```
 py -m pip install customtkinter
+```
+MacOS: 
+```
+pip3 install customtkinter
 ```
 ## Install & Startup
 - At the green button that says ```Code```, click and press on ```Donwload ZIP```
