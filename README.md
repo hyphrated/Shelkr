@@ -19,6 +19,17 @@ MacOS:
 ```
 pip3 install customtkinter
 ```
+### tkinterdnd2 (optional):
+Only needed if you want to drag & drop a `.json` file into the Import tab. The Import/Export buttons work without it.
+
+Windows:
+```
+py -m pip install tkinterdnd2
+```
+MacOS:
+```
+pip3 install tkinterdnd2
+```
 ## Install & Startup
 - At the green button that says ```Code```, click and press on ```Donwload ZIP```
 - Extract the files.
